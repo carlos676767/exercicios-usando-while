@@ -11,7 +11,7 @@
 
 
 let n = 1 //crie uma variavel com valor de 1 
-while(n <= 10){ //determine dentro do while que n e menor ou igual a dez
+while(n < 10){ //determine dentro do while que n e menor ou igual a dez
     console.log(n) //mostre o resultado na tela 
     n++ //atualize o valor do contador
 }
